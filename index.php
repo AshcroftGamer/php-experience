@@ -1,5 +1,8 @@
 <?php 
 
-echo  "Hello DIO";
+$cursos = 30;
+$pagina = "php";
+
+echo "Temos $cursos cursos $pagina disponíveis"
 
 ?>
